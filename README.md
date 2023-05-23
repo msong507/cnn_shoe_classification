@@ -1,6 +1,7 @@
 # Shoe_Image_Classification
-Summary: Optimizing Shoe Image Classification(5 classes) Using Neural Network Models
-Key Words: CNN, DenseNet201, ResNet151V2, Transfer Learning, Data Augmentation, Early Stopping, Regularization, Overfitting
+1. Summary: Optimizing Shoe Image Classification(5 classes) Using Neural Network Models
+2. Final Model: Ensemble Model (DenseNet201 + ResNet151V2 trained with augmented data)
+3. Key Words: CNN, DenseNet201, ResNet151V2, Transfer Learning, Data Augmentation, Early Stopping, Regularization, Overfitting
 
 # Goal of Analysis
 Product categorization is currently a manual, labor-intensive task. This process is not only time-consuming and costly, but it is also subject to inaccuracies arising from subjective interpretation of product images and human error. These inaccuracies can subsequently impact customer satisfaction and sales negatively. 
